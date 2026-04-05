@@ -31,7 +31,7 @@ This project was created to practice building modern landing pages, improve resp
 ---
 
 ## 🌐 #LiveDemo
-[View Project](https://PolianskyiDmytro.github.io/layout_landing-page/)
+[View Project](https://polianskyidmytro.github.io/Bike-store-landing-page/)
 
 ---
 
