@@ -11,14 +11,14 @@
 }
 
 @mixin hover($property, $toValue) {
-  transition: transform 0.3s;
+  transition: transform $effect-duration;
   &:hover {
     #{$property}: $toValue;
   }
 }
 
 @mixin active($property, $toValue) {
-  transition: transform 0.3s;
+  transition: transform $effect-duration;
   &:active, &:focus {
     outline: none;
     #{$property}: $toValue;
